@@ -61,4 +61,3 @@ El conjunto de datos Gapminder incluye las siguientes variables:
 - [Documentación de tibble](https://tibble.tidyverse.org/)
 - [Documentación de dplyr](https://dplyr.tidyverse.org/)
 - [Documentación de ggplot2](https://ggplot2.tidyverse.org/)
-- [Conjunto de datos Gapminder](https://www.gapminder.org/data/)
